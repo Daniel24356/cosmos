@@ -1,0 +1,1220 @@
+.all{
+    display: flex;
+    flex-direction: column;
+}.menu-img{
+    width: 32px;
+    height: 25px;
+}
+
+.cosmos-all{
+    background-image: url(div.layer.png);
+    background-size: 1800px;
+    background-position: 20% 50%;
+    /* width: 1345px; */
+    height: 1060px;
+}
+.menu{
+    display: none;
+}
+.cosmos{
+    display: flex;
+    padding: 0px 10%;
+    padding-top: 80px;
+    padding-bottom: 30px;
+    align-items: center;
+    gap: 330px;
+    /* background-color: rgba(2, 2, 2, 0.993); */
+}
+.cosmos-sub{
+    display: flex;
+    gap: 22px;
+}
+.cosmos-text{
+    color: white;
+    font-size: 16px;
+    font-weight: 320;
+}
+.product-text{
+    color: white;
+    font-size: 13px;
+    font-weight: 525;
+}
+.interchain{
+    padding: 100px 0%;
+    /* background-color: rgba(2, 2, 2, 0.993); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* object-fit: contain; */
+    padding-bottom: 1000px;
+    background-image: url(SVG.png);
+  
+}
+.build-chain{
+    color: white;
+    font-size: 104.3px;
+    text-align: center;
+}
+.build{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 290;
+    width: 616px;
+}
+.new-universe{
+    font-size: 67.3px;
+    font-weight: 741;
+    color: white;
+    white-space: nowrap;
+}
+.operated{
+    color: white;
+    font-size: 16px;
+    font-weight: 530;
+}
+.innovation{
+    font-size: 21.3px;
+    font-weight: 290;
+    color: white ;
+    padding-top: 10px;
+}
+.community-owned{
+    padding:0px 15%;
+    display: flex;
+    background-color: black;
+    gap: 85px;
+}
+.learn-button{
+    width: 214.8px;
+    height: 75.4px;
+    font-weight: 539px;
+    font-size: 21.32px;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+}
+.explore-button{
+    width: 214.8px;
+    height: 75.4px;
+    font-weight: 539px;
+    font-size: 21.32px;
+    color:white;
+    background-color: black;
+    border-radius: 10px;
+    border: none;
+}
+.buttons{
+    display: flex;
+    gap: 30px;
+    padding-top: 40px;
+}
+.pricing{
+    font-size: 89.7px;
+    color: white;
+    font-weight: 768;
+}
+.app-service{
+    font-size: 16px;
+    color: white;
+    font-weight: 320;
+}
+.app-services{
+    font-size: 16px;
+    color: white;
+    font-weight: 320;
+    width: 170px;
+}
+.pricing-box{
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+    padding-top: 20px;
+    /* width: 248px; */
+}
+/* .operated-box{
+    width: 623px;
+} */
+.cosmos-hub{
+    display: flex;
+    flex-direction: column;
+}
+.custa{
+    border-radius: 23px;
+   
+}
+.hub-all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40vh;
+    flex-direction: column;
+    /* background-color: black; */
+    background-image: url(cousor.png);
+    background-size: 1700px;
+    background-position:95% 50%;
+    /* width: 1045px; */
+    height: 1460px;
+}
+.hub-text{
+    font-size: 16px;
+    color: white;
+    font-weight: 530;
+    padding-bottom: 25px;
+}
+.heart-inta{
+    color: white;
+    font-size: 67.3px;
+    font-weight: 741;
+}
+.market-place{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 130px;
+    row-gap: 60px;
+    padding-top: 75px;
+}
+.serving{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    padding-left: 320px;
+    padding-top: 12px;
+}
+.eco-services{
+    padding-top: 20px;
+}
+.econ-center{
+    padding-top: 10px;
+    font-size: 21.3px;
+    color: white;
+    font-weight: 290;
+}
+.market-text{
+    font-size: 21.3px;
+    font-weight: 686;
+    color: white;
+}
+.next-gen{
+    padding-top: 6px;
+    font-size: 16px;
+    font-weight: 320;
+    color: white;
+}
+.set-operate{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.hub-button{
+    height: 75.4px;
+    width: 286px;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 21.3px;
+    font-weight: 539;
+}
+.secured-atom{
+    background-color: black;
+    padding-top: 720px;
+    padding-bottom: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    background-image: url(div.tm-section.png);
+    background-position: 40% 15%;
+    /* background-size: 1800px;
+    background-position: 20% 50%;
+    /* width: 1345px; */
+    /* height: 1060px; */ 
+}
+.sec{
+    display: none;
+}
+.secured-text{
+    color: white;
+    font-size: 67.3px;
+    font-weight: 741;
+}
+.cosmos-return{
+    font-size: 21.3px;
+    color: white;
+    font-weight: 290;
+    padding-top: 8px;
+}
+.start-learn{
+    display: flex;
+}
+.start-button{
+    height: 75.4px;
+    font-size: 21.3px;
+    font-weight: 539;
+    width: 285.5px;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+}
+.learn-more{
+    height: 75.4px;
+    font-size: 21.3px;
+    font-weight: 539;
+    width: 210.5px;
+    color: white;
+    background-color: black;
+    border: none;
+}
+.join-box{
+    background-color: black;
+    padding-top: 10vh;
+}
+.join-inter{
+    color: white;
+    font-size: 67.3px;
+    font-weight: 741;
+}
+.powerful-text{
+    font-size: 21.3px;
+    font-weight: 539;
+    padding-top: 30px;
+    color: white;
+}
+.inter-account{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 547px;
+    gap: 30px;
+    row-gap: 30px;
+}
+.account-box{
+    width: 295px;
+    height: 426px;
+    /* border-color: white;
+    border-width: 1px;
+    border-style: solid; */
+    border-radius: 20px;
+    background-image: url(bitcoin.png);
+    /* background-position: top left; */
+    background-size: 350px;
+}
+.account-boxss{
+    width: 295px;
+    height: 426px;
+    /* border-color: white;
+    border-width: 1px;
+    border-style: solid; */
+    border-radius: 20px;
+    background-image: url(card.png);
+    /* background-position: top left; */
+    background-size: 350px;
+}
+
+.secure-box{
+    height: 789.5px;
+    width: 435.9px;
+    /* border-color: white;
+    border-width: 1px;
+    border-style: solid; */
+    border-radius: 20px;
+    background-image: url(diamond.png);
+    background-position: 84% 90%;
+    /* background-size: 710px; */
+    /* background-size: 1800px; */
+    /* width: 1345px; */
+    /* height: 1060px; */
+}
+.secure-acct{
+    display: flex;
+    gap: 30px;
+    padding: 70px 10%;
+}
+.join-power{
+    padding: 30px 17%;
+}
+.acct-all{
+    display: flex;
+    flex-direction: column;
+    gap: 147px;
+    padding: 29px 5%;
+   
+}
+.acct-alls{
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    padding: 29px 10%;
+}
+.acct-allss{
+    display: flex;
+    flex-direction: column;
+    gap: 124px;
+    padding: 29px 10%;
+}
+.acct-allsss{
+    display: flex;
+    flex-direction: column;
+    gap: 74px;
+    padding: 29px 5%;
+}
+
+.one-secure{
+    color: white;
+    font-size: 37.9px;
+    font-weight: 706;
+}
+.one-secures{
+    color: white;
+    font-size: 50.5px;
+    font-weight: 721;
+}
+.chain-acct{
+    color: white;
+    font-size: 13px;
+    font-weight: 525;
+}
+.coming-soon{
+    color: white;
+    font-size: 16px;
+    font-weight: 320;
+}
+.account-boxs{
+    grid-column: 1 / span 2;
+    grid-row: 1;
+    border-color: white;
+    /* width: 295px;  */
+    height: 331px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-radius: 20px; */
+    background-image: url(coin.png);
+    background-size: 700px;
+    background-position: 2px 10px;
+}
+.technology-all{
+    padding: 0px 15%;
+    padding-top: 110vh;
+    /* padding-bottom: 20vh; */
+    background-color: black;
+    background-image: url(purple.png);
+    background-size: 1600px;
+    background-position: 10px 120%;
+}
+/* .join-all{
+  
+} */
+.comet{
+    color: white;
+    font-size: 16px;
+    font-weight:530 ;
+    padding-bottom: 23px;
+}
+.most-trust{
+    font-size: 67.3px;
+    color: white;
+    font-weight: 741;
+}
+.state-art{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 900px;
+    padding-top: 69px;
+    gap: 110px;
+    row-gap: 105px;
+}
+.the-art{
+    color: white;
+    font-size: 22px;
+    font-weight: 320;
+    padding-top: 9px;
+}
+.carbon{
+    padding-top: 37px;
+}
+.art-box{
+    padding-top: 25px;
+    width: 450px;
+}
+.art{
+    width: 450px;
+}
+.proof-of{
+    color: white;
+    font-size: 16px;
+    font-weight: 530;
+}
+.percentage{
+    display: flex;
+    gap: 25px;
+}
+.percentage-text{
+    font-size: 110.6px;
+    font-weight: 803;
+    color: white;
+}
+.lower{
+    color: white;
+    font-size : 28.4px;
+    font-weight: 695;
+}
+.scales{
+    font-size: 16px;
+    font-weight: 320;
+    color: white;
+}
+.aca-box{
+    background-color: black;
+    padding: 100px 10%;
+    display: flex;
+}
+.academy{
+    display: flex;
+    gap: 30px;
+}
+.academy-box{
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    width: 712.6px;
+    height: 346px;
+    border-radius: 20px;
+}
+.academy-boxes{
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    width: 340px;
+    height: 346px;
+    border-radius: 20px;
+    padding: 30px 3%;
+}
+.dive-deep{
+   font-size: 28.3px;
+   color: white;
+   font-weight: 695;
+}
+.deeps{
+    padding-top: 145px;
+}
+.cos-academy{
+   font-size: 13px;
+   font-weight: 525;
+   color: white;
+}
+.get{
+    padding-top: 40px;
+}
+.get-started{
+font-size: 16px;
+font-weight: 530;
+color: white;
+}
+.your-project{
+    display: flex;
+    flex-direction: column;
+    /* text-align: center; */
+    justify-content: center;
+    padding-top: 29vh;
+    padding-left: 360px;
+}
+.finance-box{
+    display: grid;
+    grid-template-columns: repeat(2,342px);
+    gap: 30px;
+    /* width:900px; */
+    /* height: 700px; */
+}
+.app-fin{
+    padding-top: 40px;
+}
+.invest{
+    display: flex;
+    gap: 30px;
+    padding-top: 40px;
+}
+.build-text{
+    font-size: 60.34px;
+    font-weight: 741;
+    color: white;
+}
+.stack-text{
+    font-size: 21.3px;
+    font-weight: 290;
+    color: white;
+    padding-top: 5px;
+}
+.finance-text{
+    font-size: 21.3px;
+    font-weight: 686;
+    color: white;
+}
+.create-text{
+    font-size: 16px;
+    font-weight: 320;
+    color: white;
+    padding-top: 7px;
+}
+.create-box{
+    padding-top: 21px;
+}
+.build-all{
+    padding-top: 95vh;
+    padding-left: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    background-image: url(orange2.png);
+    background-size: 2200px;
+    background-position:95% 10%;
+    /* width: 1045px; */
+    height: 1400px;
+}
+.stack-box{
+    padding-top: 40px;
+    padding-bottom: 120px;
+}
+.box{
+    padding-left: 132px;
+}
+.invest-box{
+    height: 530.57px;
+    width: 341px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: white; */
+    border-radius: 20px;
+    background-image: url(learn.png);
+    background-position: 30% 80%;
+}
+.invest-boxs{
+    height: 530.57px;
+    width: 341px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: white; */
+    border-radius: 20px;
+    background-image: url(get.png);
+    /* background-size: 400px; */
+    /* height: 405px; */
+    background-position: 30% 80%;
+}
+.bank-box{
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    grid-row: 2 / span 2;
+    grid-column: 2;
+    height: 531px;
+}
+.app-box{
+    height: 222px;
+    width: 320px;
+}
+.connect-chain{
+    display: flex;
+    gap: 30px;
+    padding-top: 70px;
+}
+.connect-box{
+    height: 439.2px;
+    width: 340px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: white; */
+    border-radius: 20px;
+    padding: 35px 3%;
+    background-image: url(chain.png);
+    background-size: 400px;
+    height: 405px;
+    /* background-position: 2px 10px; */
+}
+.connect-boxss{
+    height: 439.2px;
+    width: 340px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: white; */
+    border-radius: 20px;
+    padding: 35px 3%;
+    background-image: url(chain\ link.png);
+    background-size: 400px;
+    height: 405px;
+    background-position: 30% 0px;
+}
+.connect-boxsss{
+    height: 439.2px;
+    width: 340px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: white; */
+    border-radius: 20px;
+    padding: 35px 3%;
+    background-image: url(validator.png);
+    background-size: 400px;
+    height: 405px;
+    background-position: 30% 0px;
+}
+.join-text{
+    color: white;
+    font-size: 67.3px;
+    font-weight: 741;
+    text-align: center;
+}
+.connect-join{
+    background-color: black;
+    padding:0px 10% ;
+    padding-top: 110vh;
+    background-image: url(green\(1\).png);
+    background-position:0% 10px;
+    background-size: 1300px;
+    /* height: 405px;
+    background-position: 30% 0px; */
+}
+.con-text{
+    font-size: 13px;
+    font-weight: 525;
+    color: white;
+}
+.chains-text{
+    color: white;
+    font-size: 28.4px;
+    font-weight: 695;
+    color: white;
+    padding-top: 90px;
+}
+.chains-textss{
+    color: white;
+    font-size: 28.4px;
+    font-weight: 695;
+    color: white;
+    padding-top: 70px;
+}
+.chains-texts{
+    color: white;
+    font-size: 28.4px;
+    font-weight: 695;
+    color: white;
+}
+.grow-text{
+    font-size: 16px;
+    font-weight: 320;
+    color: white;
+    padding-top: 10px;
+}
+.grow-box{
+    padding-top: 20px;
+}
+.meet-world{
+    width: 433.4px;
+    height: 541.7px;
+}
+.community-chat{
+    width:526.5px ;
+    height:541.75px ;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.world-box{
+    display: flex;
+    width: 1320px;
+    padding: 100px 15%;
+    gap: 90px;
+}
+.meet-box{
+    background-color: black;
+    padding-top: 100px;
+}
+.community-text{
+    font-size: 67.3px;
+    font-weight: 741px;
+    color: white;
+}
+.join-fast{
+    font-size: 21.3px;
+    font-weight: 290;
+    color: white;
+    padding-top: 7px;
+}
+.fast-box{
+    padding-top: 20px;
+    width: 500px;
+}
+.commu-text{
+    font-size: 21.32px;
+    font-weight: 539;
+    color: white;
+    padding-top: 50px;
+}
+.chat-text{
+    font-size: 21.3px;
+    font-weight: 686;
+    color: white;
+}
+.ask-general{
+    font-size: 16px;
+    font-weight: 320;
+    color: white;
+}
+.gen-box{
+    padding-top: 10px;
+}
+.developer{
+    text-align: center;
+    font-size: 21.3px;
+    font-weight: 290;
+    color: white;
+    padding-top: 6px;
+}
+.developer-box{
+    padding-top: 29px;
+}
+.connect-joins{
+    background-color: black;
+    padding:0px 10% ;
+    padding-top: 30vh;
+    background-image: url(purple\ \(2\).png);
+    background-position:50% 280%;
+    /* background-size: 1500px; */
+}
+.connect-boxs{
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    height: 473.2px;
+    width: 340px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: white; */
+    border-radius: 20px;
+    padding: 35px 3%;
+    background-image: url(welcome.png);
+    background-size: 420px;
+    /* height: 655px; */
+    background-position: 65% 98%;
+}
+.connects-boxs{
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    height: 473.2px;
+    width: 340px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: white; */
+    border-radius: 20px;
+    padding: 35px 3%;
+    background-image: url(atom.png);
+    background-size: 362px;
+    /* height: 655px; */
+    background-position: 0% 98%;
+}
+.connectss-boxs{
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    height: 473.2px;
+    width: 340px;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: white; */
+    border-radius: 20px;
+    padding: 35px 3%;
+    background-image: url(Link.png);
+    background-size: 355px;
+    /* height: 655px; */
+    /* background-position: 65% 148%; */
+}
+.welcome-text{
+    font-size: 28.4px;
+    font-weight: 695;
+    color: white;
+}
+.learn-text{
+    font-size: 13px;
+    font-weight: 525;
+    color: white;
+}
+.learn-box{
+    padding-top: 32vh;
+}
+.read-vision{
+    font-size: 16px;
+    font-weight: 320;
+    color: white;
+}
+.receive-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    background-color: black;
+    padding-top: 150px;
+    /* padding-bottom: 130px; */
+}
+.email-input{
+    height: 65.98px;
+    width: 340.32px;
+    background-color: rgba(99, 93, 93, 0.26);
+    border: none;
+    border-radius: 8px;
+}
+.email-input::placeholder{
+    color: white;
+    font-size: 21.3px;
+    font-weight: 290;
+    padding-left: 30px;
+}
+.receive-text{
+    font-size: 28.4px;
+    font-weight: 695;
+    color: white;
+}
+.unsuscribe{
+    font-size: 12px;
+    color: white;
+    font-weight: 200;
+}
+.suscribe{
+    font-size: 13px;
+    color: white;
+    font-weight: 337;
+}
+
+@media screen and (max-width:650px){
+    .build-chain{
+        font-size: 39px;
+        font-weight: 600;
+    }
+    .interchain{
+        padding: 10px 0%;
+        padding-bottom: 400px;
+        background-image: url(SVG.png);
+        background-size: 600px;
+        height: 570px;
+    }
+    .build{
+        width: 400px;
+        font-size: 20px;
+    }
+    .operated{
+        font-size: 17px;
+        white-space: nowrap;
+        padding-bottom: 17px;
+    }
+    .new{
+        padding-bottom: 20px;
+    }
+    .serving{
+        padding-left: 20px;
+      }
+      .cosmos-all{
+        background-image: url(div.layer.png);
+        background-size: 900px;
+        background-position: 20% 50%;
+        /* width: 1345px; */
+        height: 570px;
+    }
+    .secured-atom{
+      background-image: none;
+      padding-top: 200px;
+      padding-bottom: 150px;
+    }
+    .secured-text{
+        font-size: 48px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .cosmos-return{
+        font-size: 19px;
+        font-weight: 500;
+        text-align: center;
+    }
+    .start-learn{
+        flex-direction: column;
+        gap: 15px;
+        padding-top: 30px;
+        justify-self: center;
+        align-items: center;
+    }
+    .sec{
+        display: block;
+    }
+
+   .cosmos{
+    justify-content: center;
+    gap: 279px;
+ }
+ .menu{
+    display: block;
+    padding-right: 40px;
+ }
+ .cosmos-text{
+    padding-left: 50px;
+ }
+   .pro,
+   .prod,
+   .produ{
+    display: none;
+   }
+   /* .operated{
+    font-size: 35px;
+    font-weight: 300;
+   } */
+   .new-universe{
+    font-size: 35px;
+    font-weight: 600;
+    white-space: nowrap;
+    width: 400px;
+   }
+   .operated-box{
+    width: 300px;
+   }
+   .community-owned{
+    flex-direction: column;
+    padding:30px 8%;
+  }
+  .buttons{
+    flex-direction: column;
+    gap: 10px;
+  }
+.innovation{
+    font-size: 16.7px;
+    font-weight: 500;
+    white-space: nowrap;
+    /* width: 390px; */
+}
+.next-gen{
+    font-size: 19px;
+    font-weight: 500;
+}
+.pricing{
+    font-size: 55px;
+    font-weight: 600;
+}
+.pricing-box{
+    gap: 45px;
+    padding-top: 0px;
+}
+.market-place{
+    grid-template-columns: repeat(1,1fr);
+    gap: 40px;
+    padding-top: 30px;
+  }
+  .inter-account{
+    grid-template-columns: repeat(1,1fr);
+    gap: 0px;
+  }
+  .community-owned{
+    flex-direction: column;
+    gap: 30px;
+  }
+  .hub-all{
+    padding-top: 5vh;
+    padding-left: 10px;
+    background-image: url(cousor.png);
+    background-size: 2900px;
+    background-position:60% 50%;
+    /* width: 1045px; */
+    height: 1760px;
+  }
+  .learn-button{
+    width: 360px;
+  }
+  .explore-button{
+    width: 360px;
+  }
+  .heart-inta{
+    font-size: 45px;
+    font-weight: 600;
+  }
+  .econ-center{
+    font-size: 16px;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .join-power{
+    padding: 30px 7%;
+}
+.join-box{
+    padding: 0px 3%;
+}
+.join-inter{
+    font-size: 45px;
+    font-weight: 600;
+}
+  .eco-services{
+   padding-top: 0px;
+  }
+  .serving{
+    padding-left: 20px;
+  }
+  .secure-acct{
+    flex-direction: column;
+    padding: 70px 6%;
+  }
+  .secure-box{
+    background-position: 84% 90%;
+     background-size: 540px;
+    height: 590px;
+    width: 350px;
+    border-radius: 0px;
+  }
+  .technology-all{
+    padding-top: 20vh;
+    padding: 0px 8%;
+    background-image: url(purple.png);
+    background-size: 1000px;
+    background-position: 10px 120%;
+    height: 900px;
+  }
+  .account-boxs{
+   width: 350px;
+   height: 400px;
+  }
+  .account-boxss{
+    width: 350px;
+   height: 400px;
+  }
+  .account-box{
+   display: none;
+  } 
+  .the-art{
+    font-size: 18px;
+    font-weight: 550;
+  }
+  .state-art{
+    grid-template-columns: repeat(1,1fr);
+    gap: 45px;
+  }
+  .most-trust{
+    font-size: 35px;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .percentage-text{
+    font-size: 52px;
+    font-weight: 600;
+  }
+  .carbon{
+    display: none;
+  }
+  .build-all{
+padding-top: 120vh;
+padding-left: 20px;
+justify-content: safe;
+align-items: normal;
+background-image: url(orange2.png);
+background-size: 1200px;
+background-position:55% 0%;
+
+  }
+  .stack-box{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+  .build-text{
+    font-size: 44px;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .stack-text{
+    white-space: nowrap;
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .create-text{
+    font-size: 20px;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .bu-stack{
+    width: 300px;
+  }
+  .join-text{
+    font-size: 55px;
+    font-weight: 600;
+  }
+  .connect-join{
+   padding-bottom: 90px;
+  }
+  .community-text{
+    font-size: 55px;
+    font-weight: 600;
+  }
+  .join-fast{
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .ask-general{
+    font-size: 17px;
+    font-weight: 500;
+  }
+  .commu-text{
+    font-size: 26px;
+    font-weight: 520;
+  }
+  .chat-text{
+    font-size: 29px;
+    font-weight: 550;
+  }
+   .box{
+    padding-left: 0px;
+   }
+   .finance-box{
+    grid-template-columns: repeat(1,1fr);
+   }
+   .invest{
+    flex-direction: column;
+    padding-top: 10px;
+   }
+   .invest-box{
+    width: 395px;
+   }
+   .invest-boxs{
+    width: 395px;
+   }
+   .app-fin{
+    padding-top: 10px;
+}
+   .connect-chain{
+    flex-direction: column;
+   }
+   .meet-world{
+     height: 440px;
+   }
+   .community-chat{
+    gap: 20px;
+   }
+   .world-box{
+    flex-direction: column;
+    padding: 100px 7%;
+    gap: 20px;
+   }
+    .join-text{
+        font-size: 55px;
+        font-weight: 600;
+    }
+    .developer{
+        font-size: 16px;
+        font-weight: 500;
+        white-space: nowrap;
+    }
+   .receive-box{
+    flex-direction: column;
+    gap: 28px;
+    padding-bottom: 40px;
+   }
+   .content{
+    grid-template-columns: repeat(2,1fr);
+    gap: 30px;
+    width: 400px;
+   }
+}

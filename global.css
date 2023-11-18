@@ -1,0 +1,158 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0%;
+    height: 50px;
+    background-color: lightblue;
+    background-image: 
+     linear-gradient(45deg,
+     rgb(235, 93, 71),
+     rgb(169, 51, 178),
+     rgb(164, 249, 255));
+     position: fixed;
+     top: 0;
+     left: 0;
+     right: 0;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.heading-text{
+    color: white;
+    font-size: 16px;
+    font-weight: 320;
+}
+.heading-button{
+    background-color: white;
+    color: black;
+    font-size: 12px;
+    font-weight: 700;
+    height: 26px;
+    width: 60.2px;
+    border-radius: 8px;
+    border: none;
+}
+.content{
+    /* display: flex; */
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 90px;
+    width: 900px;
+    border-top: 1px solid rgba(179, 170, 170, 0.397);
+    border-bottom: 1px solid rgba(179, 170, 170, 0.397);
+    padding: 85px 0%;
+}
+footer{
+    padding: 85px 20%;
+    background-color: black;
+}
+.learn-list{
+    list-style: none;
+    padding-top: 20px;
+}
+.feature-text{
+    text-decoration: none;
+    color: rgba(192, 188, 188, 0.438);
+    font-size: 16px;
+    font-weight: 320;
+    white-space: nowrap;
+}
+.le-text{
+    color: white;
+    font-size: 18px;
+    font-weight: 570;
+}
+.cosmos-footer{
+    font-size: 16px;
+    font-weight: 320;
+    color: rgba(192, 188, 188, 0.438);
+}
+.privacy-footer{
+    font-size: 13px;
+    font-weight: 337;
+    color: white;
+}
+.inter{
+    font-size: 14px;
+    font-weight: 337;
+    color: white;
+    white-space: nowrap;
+}
+.web-main{
+    font-size: 14px;
+    font-weight: 337;
+    color: rgba(192, 188, 188, 0.438);
+    white-space: nowrap;
+    padding-top: 5px;
+}
+.trademark{
+    font-size: 14px;
+    font-weight: 337;
+    color: rgba(192, 188, 188, 0.438);
+    white-space: nowrap;
+    padding-top: 60px;
+}
+.co-private{
+    display: flex;
+    gap: 40px;
+}
+.footer-box{
+    padding: 50px 0%;
+}
+.web-box{
+    padding-top: 30px;
+}
+
+
+  /* @media screen and (max-width:415px){
+        nav{
+            width: 414px;
+        }
+        .menu{
+            display: block;
+        }
+       .cosmos-sub{
+        display: none;
+       }
+       .build-chain{
+        font-size: 50.3px;
+       }
+      .new-universe{
+        font-size: 10px;
+        font-weight: 200px;
+      }
+      .buttons{
+        flex-direction: column;
+      }
+      .build{
+        font-size: 10px;
+      }
+       */
+     
+      
+      
+  
+@media screen and (max-width:650px){
+  
+    nav{
+        width: 414px;
+    }
+  
+    .web-box{
+        width: 300px;
+       }
+       .web-main{
+        width: 300px;
+        white-space: wrap;
+       }
+    }
